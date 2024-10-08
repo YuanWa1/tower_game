@@ -1,0 +1,4 @@
+- Brief Project Summary:
+	- This C++ strategy game, built with the Qt framework, involves players controlling towers to generate units and capture enemy or neutral towers. The game uses multithreading to handle unit generation, combat, and real-time reinforcements efficiently, ensuring smooth gameplay.
+	- The MVC architecture separates the game’s core logic (Model), user interface (View), and player interactions (Controller), making the codebase modular and maintainable. Heroes stationed in towers provide buffs to enhance unit production, and combat is managed in a hidden "war scene," allowing real-time strategic decisions without complex battle animations.
+	- The project is designed with scalability in mind, with potential for future extensions such as advanced unit types, AI opponents, and multiplayer modes.
